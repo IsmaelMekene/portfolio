@@ -40,7 +40,7 @@ export default function Home({ videos }) {
             title="Project"
             gradient="from-[#6EE7B7] via-[#3B82F6] to-[#9333EA]"
           />
-          <GradientCard href="/resume"
+          <GradientCard href="https://read.cv/meteor"
             title="Resume"
             gradient="from-[#FDE68A] via-[#FCA5A5] to-[#FECACA]"
           />

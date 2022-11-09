@@ -40,7 +40,7 @@ export default function Container(props) {
   const meta = {
     title: 'Meteor',
     description: 'Research Scientist',
-    image:'public/lockss.jpeg',
+    image:'https://ismaelmekene.com/_next/image?url=%2Flockss.jpeg&w=384&q=75',
     type: 'website',
     ...customMeta
   };
@@ -51,8 +51,8 @@ export default function Container(props) {
         <title>{meta.title}</title>
         <meta name="robots" content="follow, index" />
         <meta content={meta.description} name="description" />
-        <meta property="og:url" content={`https://ismaelmekene.io${router.asPath}`} />
-        <link rel="canonical" href={`https://ismaelmekene.io${router.asPath}`} />
+        <meta property="og:url" content={`https://ismaelmekene.com${router.asPath}`} />
+        <link rel="canonical" href={`https://ismaelmekene.com${router.asPath}`} />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Ismael Coulibaly" />
         <meta property="og:description" content={meta.description} />

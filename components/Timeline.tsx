@@ -65,7 +65,7 @@ export default function Timeline() {
         <Step title="Joined Trimble Inc. ">
           I'm extremely grateful to have interned at Trimble France as Deep Learning Researcher. 
         </Step>
-        <Step title="Graduate from École Polytechnique">
+        <Step title="Graduated from École Polytechnique">
           I studied Mathematics and applications to Machine Learning, Computer Vision. 
         </Step>
         

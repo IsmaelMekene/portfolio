@@ -24,7 +24,7 @@
   "redirects": [
     {
       "source": "/resume",
-      "destination": "https://read.cv/kanvaly"
+      "destination": "https://read.cv/meteor"
     }
   ]
 }
