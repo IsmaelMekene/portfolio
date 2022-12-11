@@ -63,7 +63,7 @@ export default function Timeline() {
       <Year>2021 - 2022</Year>
       <ul>
         <Step title="Joined Trimble Inc. ">
-          I'm extremely grateful to have interned at Trimble France as Deep Learning Researcher. 
+          I'm extremely grateful to have joined at Trimble France as Deep Learning Researcher. 
         </Step>
         <Step title="Graduated from École Polytechnique">
           I studied Mathematics and applications to Machine Learning, Computer Vision. 
