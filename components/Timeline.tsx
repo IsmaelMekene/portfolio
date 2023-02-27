@@ -60,10 +60,10 @@ export default function Timeline() {
       <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
         Timeline
       </h3>
-      <Year>2021 - </Year>
+      <Year>2022 - </Year>
       <ul>
         <Step title="Joined Trimble Inc. ">
-          I'm extremely grateful to have joined Trimble France as Deep Learning Researcher. 
+          I'm extremely grateful to have interned at Trimble France as Deep Learning Researcher. 
         </Step>
         <Step title="Graduated from École Polytechnique">
           I studied Mathematics and applications to Machine Learning, Computer Vision. 
