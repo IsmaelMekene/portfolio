@@ -63,7 +63,7 @@ export default function Timeline() {
       <Year>2023 - </Year>
       <ul>
         <Step title="Joined Amazon! ">
-          I'm extremely grateful to be joining Amazon as Research Scientist. 
+          I'm extremely grateful to be joining Amazon as a Research Scientist. 
         </Step>
         
       </ul>
