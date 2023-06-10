@@ -26,10 +26,10 @@ export default function Home({ videos }) {
               👋 Ismaël Mékéné
             </h1>
             <h2 className="text-center text-gray-700 dark:text-gray-200 mb-4">
-              Deep Learning Researcher at <span className="font-semibold">Trimble inc.</span>
+              Upcoming Research Scientist at <span className="font-semibold">Amazon</span>
             </h2>
             <p className="text-center text-gray-600 dark:text-gray-400">
-              Detecting Openings (Doors and Windows) in 3D-Point Clouds. 
+              Enhancing Predictive analytics. 
             </p>
           </div>
           <BackgroundPlot />
