@@ -29,7 +29,7 @@ export default function Home({ videos }) {
               Upcoming Research Scientist at <span className="font-semibold">Amazon</span>
             </h2>
             <p className="text-center text-gray-600 dark:text-gray-400">
-              Enhancing Predictive analytics
+              Enhancing Predictive Analytics
             </p>
           </div>
           <BackgroundPlot />
