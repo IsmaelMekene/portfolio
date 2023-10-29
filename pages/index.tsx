@@ -44,6 +44,10 @@ export default function Home({ videos }) {
             title="Resume"
             gradient="from-[#FDE68A] via-[#FCA5A5] to-[#FECACA]"
           />
+          <GradientCard href="https://read.cv/meteor"
+            title="BrainTutors"
+            gradient="from-[#D8B4FE] to-[#818CF8]"
+          />
         </div>
       </div>
     </Container>
