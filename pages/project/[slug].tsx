@@ -34,3 +34,4 @@ export async function getStaticProps({ params }) {
 
   return { props: { post, tweets } };
 }
+

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://kanvaly.vercel.app/sitemap.xml
+Sitemap: https://ismaelmekene.com/sitemap.xml
