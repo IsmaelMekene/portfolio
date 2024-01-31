@@ -12,7 +12,7 @@ export default function About() {
         <div className="mb-8 prose leading-6 text-gray-600 dark:text-gray-400">
           <p className='text-justify'>
           <p> 
-          Yo, This is Meteor! I love numbers, graphs, forms, patterns and I try my best to use mathematical models, deep learning and computer vision to help computers understand the world complex problems. 
+          Yo, This is JoyBoy 😄! I love numbers, graphs, forms, patterns and I try my best to use mathematical models, deep learning and computer vision to help computers understand the world complex problems. 
           </p>  
           <p> 
           Kicking people in the head is a passion. Fish is the most delicious thing on earth and I rather solve old maths theorems when I am bored.
