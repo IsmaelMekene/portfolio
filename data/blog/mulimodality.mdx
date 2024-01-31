@@ -90,7 +90,7 @@ This part of the article is dedicated to a practical use-case of CLIP Zero-Shot 
 It convers the implementations of the CLIP inference (text and image embeddings generation), Vector database manipulation (saving and retrieving), building and deployment of the self-contained app.
 
 The goal is to have a clothing search engine, on which we will be able to look for cloths either through prompting text in a research bar and/or by uploading an image of a cloth.
-We'll use the [__fashion-product-images-small__](https://huggingface.co/datasets/ashraq/fashion-product-images-small) by Ashraq from the Huggging-Face datasets. The __Bm25Transformer__ is used as text encoder whereas the preference was done with __ViT__ (Vision Transformer) as image encoder.
+We'll use the [__fashion-product-images-small__](https://huggingface.co/datasets/ashraq/fashion-product-images-small) by Ashraq from the Hugging-Face datasets. The __Bm25Transformer__ is used as text encoder whereas the preference was done with __ViT__ (Vision Transformer) as image encoder.
 Furthermore, as for the vector database, __Pinecone__ is very useful for it's free api-key plan for experimentation purpose. The app user interface is seamlessly build with __gradio__ and deploy __huggingface space__. 
 For computation purpose, __huggingface space__ may sometimes be slow during the demo due to the low cpu memory provided on the free space plan. In case, the space's demo is to slow, a google colab notebook is provided to make the experience way more faster faster with free GPU 😜
 __ __
