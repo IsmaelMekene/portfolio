@@ -79,7 +79,7 @@ Zero-Shot learning is a pivotal concept in machine learning and unlike N-shot le
 
 How do we achieve zero-shot classification with CLIP?
 
-By creating vectors for images and text within the same vector space alignment. If we represent dataset classes as text sentences, such as "a photo of a car," "a photo of a bird," and "a photo of a cat," each class is encoded as vectors (T₁, T₂, T₃) by the text encoder. When given a photo of a cat, encoded as vector I₁ by the ViT model, calculating their similarity with cosine similarity, we anticipate the highest score for similarity(T₃, I₁).
+By creating vectors for images and text within the same vector space alignment. If we represent dataset classes as text sentences, such as "a photo of a coat," "a photo of a puma," and "a photo of a galaxy," each class is encoded as vectors (T₁, T₂, T₃) by the text encoder. When given a photo of a galaxy, encoded as vector I₁ by the ViT model, calculating their similarity with cosine similarity, we anticipate the highest score for similarity(T₃, I₁).
 
 ![Loss](/static/img/blog/zeroshot.png)
 
